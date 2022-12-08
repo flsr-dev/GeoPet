@@ -11,8 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ApplicationCore" />
-    <Folder Include="Infrastructure\Entitties" />
     <Folder Include="Web" />
     <Folder Include="Web\Controllers" />
   </ItemGroup>
